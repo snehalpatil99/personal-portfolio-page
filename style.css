@@ -27,7 +27,7 @@ ul,ol
 body
 {
     min-width: 500px;
-    background-color: lightskyblue;
+    background-color: rgb(120, 145, 161);
 }
 .profileBody {
     display: inline-block;
