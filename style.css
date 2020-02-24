@@ -1,4 +1,4 @@
-* {
+*{
     font-family: Helvetica, Arial, sans-serif;
     max-width: 700px;
     margin: auto;
@@ -15,20 +15,18 @@ p
 font-size: 12px;
 margin-left: 2em;
 margin-right: 10px;
-margin-top: 10px
+margin-top: 10px;
+margin-bottom: 10px;
 }
-ul,ol
+ul
 {
     font-size: 12px;
     margin-right: 1em;
     margin-top: 10px;
     scroll-margin-bottom: 10px;
+    margin-bottom: 10px;
 }
-body
-{
-    min-width: 500px;
-    background-color: rgb(120, 145, 161);
-}
+
 .profileBody {
     display: inline-block;
     background-color: white;
@@ -37,22 +35,20 @@ body
     width: 75%;
     height: 590px;
   }
-#name h1{
-    font-weight:normal;
-    margin-left: 2em;
+h1{
+    margin-left: 1em;
     margin-top:10px;
-    font-size: 40px;
+    margin-bottom: 10px;
+    font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
-    font-style: italic;
+    letter-spacing: 3px;
 }
-#name h2{
-    font-weight:normal;
-    margin-left: 2em;
+h2{
+    margin-left: 1em;
+    font-size: 20px;
     margin-top:2px;
-    margin-bottom: 15px;
-    font-size: 10px;
+    margin-bottom: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -61,7 +57,7 @@ body
 hr {
     margin-left: 1em;
     margin-right: 1em;
-
+    
 }
 
 
